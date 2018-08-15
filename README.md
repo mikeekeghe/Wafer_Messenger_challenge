@@ -1,6 +1,6 @@
 echo "# WAFER MESSENGER CHALLENGE
 --------------------------------------------------
-an Android that:
+an Android application that:
 
 1. Fetches json data through endpoint https://restcountries.eu/rest/v2/all
 2. Display json data as listview with following elements parsed from json
